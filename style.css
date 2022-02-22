@@ -15,7 +15,7 @@
 /* navbar */
 
 
-/* content 1 */
+/* Jumbotron */
 
 .jumbotron {
     background-color: #F1F3FF;
@@ -52,10 +52,10 @@
 }
 
 
-/* content 1 */
+/* Jumbotron */
 
 
-/* content 2 */
+/* Our Services */
 
 .judul-2 {
     font-family: Helvetica;
@@ -77,22 +77,20 @@
 }
 
 
-/* content 2 */
+/* Our Services */
 
 
-/* content 3 */
+/* Why Us */
 
 .card-1 {
-    /* width: 268px;
-    height: 196px; */
     border-radius: 8px;
 }
 
 
-/* content 3 */
+/* Why Us */
 
 
-/* content 5 */
+/* Testimonial */
 
 .img-text {
     width: 100%;
@@ -157,10 +155,10 @@
 }
 
 
-/* content 5 */
+/* Testimonial */
 
 
-/* content 7 */
+/* FAQ */
 
 .btn-link {
     color: #000;
@@ -173,7 +171,7 @@
 }
 
 
-/* content 7 */
+/* FAQ */
 
 
 /* warna */
